@@ -1,0 +1,27 @@
+# IDE Settings
+.idea/
+.vscode/
+
+# Python Virtual Environment
+.venv/
+env/
+venv/
+
+# Python Cache
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller & Build Outputs
+build/
+dist/
+*.spec
+
+# Application Local Temp and AI Models
+temp/
+models/
+
+# System Files
+Thumbs.db
+.DS_Store
